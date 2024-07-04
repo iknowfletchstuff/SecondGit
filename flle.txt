@@ -9,3 +9,5 @@ We make changes to this branch
 Added another change.
 
 And another change
+
+Added additional line to cause conflict with conflict 1 .
