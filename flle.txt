@@ -1,4 +1,5 @@
-"hello world !" 
+I erased content, file1 conflict.
+"hello world !"
 We make changes to this branch
 
 Added another change.
